@@ -7,11 +7,12 @@
 こちらの案内ページにて、模擬戦の調整などをお知らせしたいと思いますので、模擬戦へ参加される方は、定期的にページ上部の[更新情報](#更新情報)の確認をお願いします。
 
 ## 模擬戦会場の現況
-<span style="color:red">一時休止中</span>
-<!-- <span style="color:red">開場中 from 11/02 01:45</span> -->
+<div style="color:red">一時休止中</div>
+<!-- <div style="color:red">修理中</div> -->
+<!-- <div style="color:green">開場中 from 11/02 01:45</div> -->
 
 ## アクセス
-<span style="color:red">模擬戦会場 : 地上[55,-67]</span>
+<div style="color:red">模擬戦会場 : 地上[55,-67]</div>
 * 遠方よりお越しの方は同盟本拠経由経路をご活用ください。
 * [同盟本拠までの移動は１０秒](https://www.gundam-network-taisen.jp/help/alliance_home_base.php)となりますので、そちらを経由すれば、２，３分程度で到達可能です。
 * 同盟本拠の援軍港についての制限・取り決めがある場合は、そちらに従ってください。
