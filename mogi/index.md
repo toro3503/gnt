@@ -9,7 +9,7 @@
 ## 模擬戦会場の現況
 <!-- <div style="color:red">一時休止中</div> -->
 <!-- <div style="color:red">修理中</div> -->
-<div style="color:green">開場中 from 11/02 14:42</div>
+<div style="color:green">開場中 from 07:00</div>
 
 ## アクセス
 <div style="color:red">模擬戦会場 : 地上[55,-67]</div>
