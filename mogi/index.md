@@ -7,7 +7,8 @@
 こちらの案内ページにて、模擬戦の調整などをお知らせしたいと思いますので、模擬戦へ参加される方は、定期的にページ上部の[更新情報](#更新情報)の確認をお願いします。
 
 ## 模擬戦会場の現況
-<span style="color:red">開場中 from 11/02 01:45</span>
+<span style="color:red">一時休止中</span>
+<!-- <span style="color:red">開場中 from 11/02 01:45</span> -->
 
 ## アクセス
 <span style="color:red">模擬戦会場 : 地上[55,-67]</span>
